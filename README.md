@@ -1,2 +1,2 @@
-# Telegram-auto-post
-Telegram auto post
+pip install -r requirements.txt
+python "telegram auto post.py"
